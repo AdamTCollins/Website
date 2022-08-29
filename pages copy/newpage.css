@@ -1,0 +1,36 @@
+.photo1{
+  width: 50%;
+  text-align: center;
+  height: 60%;
+}
+
+footer{
+  padding-top: 3%;
+}
+
+.footer2{
+  padding-left: 10%;
+  padding-right: 10%;
+  text-align: left;
+  font-family: 'Barlow Semi Condensed', sans-serif;
+  font-size: 2vh;
+  padding-bottom: 3%;
+}
+
+.footer2 h1{
+  color: indigo;
+  font-family: 'Fredoka One', cursive;
+  font-size: 3vh;
+
+}
+.lasttext{
+  text-align: center;
+  padding-bottom: 1%;
+  padding-top: 2%;
+}
+
+.lasttext h1{
+  font-family: 'Barlow Semi Condensed', sans-serif;
+  color: indigo;
+  font-size: 1.5vh;
+}
